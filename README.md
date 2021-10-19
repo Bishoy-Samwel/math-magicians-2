@@ -25,10 +25,10 @@ It is a Single Page App (SPA) that allows users to:
 
 ## Getting Started
 
-* Clone this repo <https://github.com/Bishoy-Samwel/math-magicians>
+* Clone this repo <https://github.com/Bishoy-Samwel/math-magicians-2>
 
     ```bash
-    git clone https://github.com/Bishoy-Samwel/math-magicians
+    git clone https://github.com/Bishoy-Samwel/math-magicians-2
     ```
 
 * Navigate to math-magicians folder/directory
