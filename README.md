@@ -16,8 +16,8 @@ It is a Single Page App (SPA) that allows users to:
 * Make simple calculations.
 
 <!-- ![screenshot]() -->
-
-## [Live Demo]()
+<!-- 
+## [Live Demo]() -->
 
 ## Built With
 
