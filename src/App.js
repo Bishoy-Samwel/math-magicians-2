@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import Container from './components/Container';
 
 export default class App extends React.Component {
