@@ -2,10 +2,10 @@
 /* eslint-disable react/destructuring-assignment */
 import React from 'react';
 
-export default function Result(props) {
-  return (
-    <p className="col-4" id="result">
-      {props.result}
-    </p>
-  );
-}
+const Result = props => (
+  <p className="col-4" id="result">
+    {props.result}
+  </p>
+);
+
+export default Result;

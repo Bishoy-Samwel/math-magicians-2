@@ -2,7 +2,7 @@ import React from 'react';
 import Result from './Result';
 import Buttons from './Buttons';
 
-export default function Calculator(props) {
+const Calculator = props => {
   // eslint-disable-next-line react/prop-types
   const { result, handleClick } = props;
   return (
@@ -14,4 +14,6 @@ export default function Calculator(props) {
       </div>
     </>
   );
-}
+};
+
+export default Calculator;

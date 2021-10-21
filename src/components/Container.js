@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import Calculator from './Calculator';
 import calculate from '../Logic/Calculate';
 
-export default function Container() {
+const Container = () => {
   const [dataObj, setDataObj] = useState({
     total: null, next: null, operation: null,
   });
@@ -21,4 +21,6 @@ export default function Container() {
       handleClick={handleClick}
     />
   );
-}
+};
+
+export default Container;
