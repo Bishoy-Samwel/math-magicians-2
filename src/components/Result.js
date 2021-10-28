@@ -1,11 +1,12 @@
-/* eslint-disable react/prop-types */
-/* eslint-disable react/destructuring-assignment */
 import React from 'react';
 
-const Result = props => (
-  <p className="col-4" id="result">
-    {props.result}
-  </p>
-);
+const Result = props => {
+  const result = { props };
+  return (
+    <p className="col-4" id="result">
+      {result}
+    </p>
+  );
+};
 
 export default Result;
