@@ -15,9 +15,10 @@ It is a Single Page App (SPA) that allows users to:
 
 * Make simple calculations.
 
-<!-- ![screenshot]() -->
+![image](https://user-images.githubusercontent.com/29541335/139659742-d0e6c61a-d9c6-4dc7-ae21-289044c76f1f.png)
+
 <!-- 
-## [Live Demo]() -->
+## [Live Demo](https://math-magicians-m.herokuapp.com/) -->
 
 ## Built With
 
