@@ -19,7 +19,8 @@ It is a Single Page App (SPA) that allows users to:
 ![image](https://user-images.githubusercontent.com/29541335/139659742-d0e6c61a-d9c6-4dc7-ae21-289044c76f1f.png)
 
 
-## [Live Demo](https://math-magicians-m.herokuapp.com/)
+## [Live Demo heroku](https://math-magicians-m.herokuapp.com/)
+## [Live Demo netlify](https://math-magicians-m.netlify.app/calc)
 
 ## Built With
 
