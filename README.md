@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
+* [Live Demo](#live-demo)
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
 * [Contributing](#contributing)
@@ -17,8 +18,8 @@ It is a Single Page App (SPA) that allows users to:
 
 ![image](https://user-images.githubusercontent.com/29541335/139659742-d0e6c61a-d9c6-4dc7-ae21-289044c76f1f.png)
 
-<!-- 
-## [Live Demo](https://math-magicians-m.herokuapp.com/) -->
+
+## [Live Demo](https://math-magicians-m.herokuapp.com/)
 
 ## Built With
 
