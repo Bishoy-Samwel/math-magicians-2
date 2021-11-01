@@ -20,7 +20,7 @@ It is a Single Page App (SPA) that allows users to:
 
 
 ## [Live Demo heroku](https://math-magicians-m.herokuapp.com/)
-## [Live Demo netlify](https://math-magicians-m.netlify.app/calc)
+## [Live Demo netlify](https://math-magicians-m.netlify.app/)
 
 ## Built With
 
